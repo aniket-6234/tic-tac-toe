@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can understood the useState Hooks and there is logic for understanding the game also. 
+Once, you done this project then it will help you for later.
 
 ### `npm start`
 
